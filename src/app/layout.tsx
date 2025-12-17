@@ -13,9 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "MixCanvas Studio",
-  description:
-    "이미지·영상·도형을 드래그앤드롭으로 섞고 배치하는 Konva 기반 캔버스 플레이그라운드",
+  title: "Konva Demo",
+  description: "Konva 드래그앤드롭을 연습할 수 있는 간단한 데모",
 };
 
 export default function RootLayout({
